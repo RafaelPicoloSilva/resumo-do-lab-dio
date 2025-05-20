@@ -1,2 +1,1 @@
-# resumo-do-lab-dio
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+Estou fazendo o curso Microsoft Azure na plataforma DIO, e até agora eu aprendi o que é computação em nuvem, o que é IAAS, SAAS, PAAS etc. Também aprendi sobre a plataforma Azure e seus serviços, e como criar a conta como estudante para explorar seus recursos.
